@@ -1,0 +1,58 @@
+html,body{
+    font-family:Athelas;
+    margin:0;
+    padding:0;
+}
+h4 {
+    font-weight: 700;
+}
+h3 {
+    font-size: 18px;
+}
+h2 {
+    font-weight: 500;
+    font-size: 25px;
+}
+
+.navbar{
+	background-color: #f9f9f9;
+	color:black;
+	padding: 6px 0px;
+	width:100%;
+}
+nav.navbar.navbar-expand-lg.navbar-light :active {
+  color: black;
+}
+.navbar-light .navbar-nav .nav-link {
+  color:black;
+}
+li.nav-item {
+  padding: 0px 25px;
+}
+
+/*search--*/
+.btn-outline-success {
+  color: white;
+  border-color: #4f524f;
+}
+button.btn.btn-outline-success.my-2.my-sm-0 {
+  background-color:white;
+  border-color: black;
+  color: black;
+}
+.navbar-light .navbar-toggler {
+  color: white;
+  border-color: white;
+  background-color: white;
+}
+
+.images{
+	margin:20px;
+}
+.images img{
+    width: 100%;
+    height: auto;
+    object-fit: cover;
+}
+	
+
